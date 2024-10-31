@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monktour2384/app/static/css/main.49d9752b.css",
+    "main.js": "/monktour2384/app/static/js/main.1f3c619e.js",
+    "static/js/453.ed3810f9.chunk.js": "/monktour2384/app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/monktour2384/app/index.html",
+    "main.49d9752b.css.map": "/monktour2384/app/static/css/main.49d9752b.css.map",
+    "main.1f3c619e.js.map": "/monktour2384/app/static/js/main.1f3c619e.js.map",
+    "453.ed3810f9.chunk.js.map": "/monktour2384/app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49d9752b.css",
+    "static/js/main.1f3c619e.js"
+  ]
+}
